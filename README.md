@@ -1,4 +1,4 @@
 # Kushagra-Demo
 This is my first git repository
 <br>
-Ideal == Elone Musk
+Ideal == Elone Musk && Lord Krishna
